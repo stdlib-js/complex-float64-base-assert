@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-03)
+## Unreleased (2024-09-01)
 
 <section class="packages">
 
@@ -31,8 +31,7 @@
 
 ##### BREAKING CHANGES
 
--   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace TypeScript declarations
--   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace declarations 
+-   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace declarations
 
     -   To migrate, users should see the guidance found in the relevant commits for namespace refactoring. See issue #2260.
 
@@ -120,8 +119,7 @@
 
 ### BREAKING CHANGES
 
--   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace TypeScript declarations
--   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace declarations 
+-   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace declarations
 
     -   To migrate, users should see the guidance found in the relevant commits for namespace refactoring. See issue #2260.
 
