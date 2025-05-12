@@ -4,116 +4,21 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="complex-float64-base-assert-unreleased">
-
-#### [@stdlib/complex/float64/base/assert](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/complex/float64/base/assert)
-
-<details>
+## Unreleased (2025-05-12)
 
 <section class="features">
 
-##### Features
+### Features
 
 -   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb) - update namespace TypeScript declarations [(#2628)](https://github.com/stdlib-js/stdlib/pull/2628)
 -   [`5bb602e`](https://github.com/stdlib-js/stdlib/commit/5bb602e63ab9d543d6f2702a556e7569d01277bb) - add `complex/float64/base/assert` namespace
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`bd258a3`](https://github.com/stdlib-js/stdlib/commit/bd258a3c2803d841658c7465505966149845a6fb): update namespace declarations
-
-    -   To migrate, users should see the guidance found in the relevant commits for namespace refactoring. See issue #2260.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="complex-float64-base-assert-is-not-equal-unreleased">
-
-#### [@stdlib/complex/float64/base/assert/is-not-equal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/complex/float64/base/assert/is-not-equal)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`1a93d8f`](https://github.com/stdlib-js/stdlib/commit/1a93d8f68b80f61255d114d779d407bd8eb4877d) - add `complex/float64/base/assert/is-not-equal`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="complex-float64-base-assert-is-same-value-unreleased">
-
-#### [@stdlib/complex/float64/base/assert/is-same-value](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/complex/float64/base/assert/is-same-value)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`d925e71`](https://github.com/stdlib-js/stdlib/commit/d925e719b20718f0cd58d41e8630d700be89e725) - add `complex/float64/base/assert/is-same-value`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="complex-float64-base-assert-is-same-value-zero-unreleased">
-
-#### [@stdlib/complex/float64/base/assert/is-same-value-zero](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/complex/float64/base/assert/is-same-value-zero)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`45cadfe`](https://github.com/stdlib-js/stdlib/commit/45cadfed2906835952b096ac0b5feab837a01bce) - add `complex/float64/base/assert/is-same-value-zero`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -126,19 +31,6 @@
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -159,6 +51,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
