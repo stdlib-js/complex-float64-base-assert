@@ -78,6 +78,7 @@ The namespace contains the following functions:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`isAlmostEqual( z1, z2, maxULP )`][@stdlib/complex/float64/base/assert/is-almost-equal]</span><span class="delimiter">: </span><span class="description">test whether two double-precision complex floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).</span>
 -   <span class="signature">[`isEqual( z1, z2 )`][@stdlib/complex/float64/base/assert/is-equal]</span><span class="delimiter">: </span><span class="description">test whether two double-precision complex floating-point numbers are equal.</span>
 -   <span class="signature">[`isNotEqual( z1, z2 )`][@stdlib/complex/float64/base/assert/is-not-equal]</span><span class="delimiter">: </span><span class="description">test whether two double-precision complex floating-point numbers are not equal.</span>
 -   <span class="signature">[`isSameValueZero( z1, z2 )`][@stdlib/complex/float64/base/assert/is-same-value-zero]</span><span class="delimiter">: </span><span class="description">test whether two double-precision complex floating-point numbers are the same value.</span>
@@ -199,6 +200,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/complex-float64-base-assert/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/complex/float64/base/assert/is-almost-equal]: https://github.com/stdlib-js/complex-float64-base-assert-is-almost-equal
 
 [@stdlib/complex/float64/base/assert/is-equal]: https://github.com/stdlib-js/complex-float64-base-assert-is-equal
 
