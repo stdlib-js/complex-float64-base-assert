@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-07)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
 ### Features
 
+-   [`7c681c7`](https://github.com/stdlib-js/stdlib/commit/7c681c773e6ee1817243fbfc788c82cb6abe76ed) - add `isAlmostSameValue` to namespace
+-   [`a33a861`](https://github.com/stdlib-js/stdlib/commit/a33a861d18e0877b8ddbea520efee0adc864b84d) - add `complex/float64/base/assert/is-almost-same-value`
 -   [`0bc68ba`](https://github.com/stdlib-js/stdlib/commit/0bc68ba0764320d5e2f7edbbd0d53cbd279c8e3e) - update `complex/float64/base/assert` TypeScript declarations
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
 -   [`42bc50f`](https://github.com/stdlib-js/stdlib/commit/42bc50ff323a7739452261f9e022fdd39381f4b7) - add `complex/float64/base/assert/is-almost-equal` [(#7620)](https://github.com/stdlib-js/stdlib/pull/7620)
@@ -41,6 +43,8 @@
 
 <details>
 
+-   [`7c681c7`](https://github.com/stdlib-js/stdlib/commit/7c681c773e6ee1817243fbfc788c82cb6abe76ed) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
+-   [`a33a861`](https://github.com/stdlib-js/stdlib/commit/a33a861d18e0877b8ddbea520efee0adc864b84d) - **feat:** add `complex/float64/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`0bc68ba`](https://github.com/stdlib-js/stdlib/commit/0bc68ba0764320d5e2f7edbbd0d53cbd279c8e3e) - **feat:** update `complex/float64/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_
